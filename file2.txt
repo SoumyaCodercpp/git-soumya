@@ -1,1 +1,1 @@
-this the final merged content
+This is the final merged content.
