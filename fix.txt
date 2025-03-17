@@ -2,3 +2,4 @@ i will vanish when branch is changed from bug-fix
 
 need some fixation to understand non-fast forward merge
 another fix
+another2 fix
