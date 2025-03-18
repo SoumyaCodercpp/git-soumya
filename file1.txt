@@ -3,3 +3,4 @@ my nam eis soumya
 2025 is coming
 learning git diff in file1
 learning git diff in file1 again
+staging to get stashed
