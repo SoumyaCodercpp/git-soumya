@@ -5,3 +5,4 @@ another fix
 another2 fix
 
 fix for pink mode
+fix for purplemode mode
