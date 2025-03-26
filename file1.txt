@@ -4,3 +4,5 @@ my nam eis soumya
 learning git diff in file1
 learning git diff in file1 again
 staging to get stashed
+
+practicing tu push code in github
